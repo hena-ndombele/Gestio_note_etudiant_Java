@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">gestion_etudiant</string>
+    <string name="text_connexion">Connexion</string>
+    <string name="text_info">Completez des informations afin de vous connecter à votre compte</string>
+    <string name="text_erreur">erreur de saisie</string>
+    <string name="text_username">Nom d'utilisateur ...</string>
+    <string name="text_password">Mot de passe ...</string>
+    <string name="text_creercompte">Créer un compte</string>
+    <string name="text_connexion">SE CONNECTER</string>
+</resources>
